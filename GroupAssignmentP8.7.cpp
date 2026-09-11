@@ -83,7 +83,7 @@ void processFile(ifstream& inFile, ofstream& outFile, const string& cipherAlphab
 }
 
 // ============================================================================
-// Author: Member 3
+// Author: Omar Llerena
 // Purpose: Parses command-line arguments and validates encryption/decryption flags.
 // ============================================================================
 int main(int argc, char* argv[])
