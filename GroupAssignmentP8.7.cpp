@@ -43,7 +43,7 @@ string generateCipherAlphabet(const string& keyword)
 }
 
 // ============================================================================
-// Author: Member 2
+// Author: Maxim Keene
 // Purpose: Reads input stream character-by-character and writes encrypted/decrypted output.
 // ============================================================================
 void processFile(ifstream& inFile, ofstream& outFile, const string& cipherAlphabet, bool isEncrypt)
